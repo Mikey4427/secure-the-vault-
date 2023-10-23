@@ -6,3 +6,11 @@ body {
     height: 250;
     width: 1000;
 }
+button {
+    height: 50;
+    width: 200;
+    margin-left: 400;
+    margin-right: 400;
+    margin-top: 100;
+    margin-bottom: 100;
+}
